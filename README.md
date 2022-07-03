@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile views](https://github.com/Hudanurediz) <br />
+![Profile views](https://komarev.com/ghpvc/?username=Hudanurediz) <br />
 - 📫 How to reach me: hudanurediz29@gmail.com
 
 ### 📩 Connect with me:
