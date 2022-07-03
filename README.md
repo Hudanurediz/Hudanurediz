@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-**Hudanurediz/Hudanurediz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Profile views](https://github.com/Hudanurediz) <br />
 - 📫 How to reach me: hudanurediz29@gmail.com
 
