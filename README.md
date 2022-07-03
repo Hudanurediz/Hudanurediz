@@ -4,7 +4,14 @@
 - 📫 How to reach me: hudanurediz29@gmail.com
 
 ### 📩 Connect with me:
-[![linkedin Badge](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/hudanurediz/)<br />
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/hudanurediz/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/hudanurediz29">
+    <img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+ </div>
 ### GitHub Analytics 📊
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Hudanurediz&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hudanurediz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
