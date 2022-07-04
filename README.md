@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi, I'm Hüda👋
 
+- 📫 How to reach me: hudanurediz29@gmail.com <br /> <br />
 ![Profile views](https://komarev.com/ghpvc/?username=Hudanurediz) <br />
-- 📫 How to reach me: hudanurediz29@gmail.com
-
 ### 📩 Connect with me:
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/hudanurediz/)">
